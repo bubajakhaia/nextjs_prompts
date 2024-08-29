@@ -4,3 +4,6 @@
 - MongoDB
 - NextAuth
 - TailwindCSS
+###
+npm i 
+npm run dev
